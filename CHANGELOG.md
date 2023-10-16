@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.0.0 (2023-10-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* htmlparser2  7.2.0  →  8.0.1
+* **client:** remove Internet Explorer (IE11) support
+
+### Features
+
+* add compatibility for react-native ([4a4a974](https://github.com/AlbertAZ1992/html-dom-parser/commit/4a4a974c01ad0beaf0591fe169d68afe66ea6e2a))
+* **client:** remove Internet Explorer (IE11) support ([b34cbe1](https://github.com/AlbertAZ1992/html-dom-parser/commit/b34cbe1310c0e223ae05bca00945c70faca374ab)), closes [#225](https://github.com/AlbertAZ1992/html-dom-parser/issues/225)
+
+
+### Bug Fixes
+
+* **client:** ensure head and body with newline are parsed correctly ([b26b645](https://github.com/AlbertAZ1992/html-dom-parser/commit/b26b645c9de708a6b85b61b66bbdb8e75eebb121)), closes [#317](https://github.com/AlbertAZ1992/html-dom-parser/issues/317)
+
+
+### Build System
+
+* upgrade domhandler to 5.0.3 and htmlparser2 to 8.0.1 ([e80a69c](https://github.com/AlbertAZ1992/html-dom-parser/commit/e80a69c83e07b0ae2f48a78dbd6adb7d0a71b0f3))
+
 ## [3.0.1](https://github.com/remarkablemark/html-dom-parser/compare/v3.0.0...v3.0.1) (2022-07-10)
 
 

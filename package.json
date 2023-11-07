@@ -51,7 +51,7 @@
     "@rollup/plugin-commonjs": "25.0.7",
     "@rollup/plugin-node-resolve": "15.2.3",
     "@size-limit/preset-big-lib": "9.0.0",
-    "@types/estree": "1.0.2",
+    "@types/estree": "1.0.5",
     "chai": "4.3.10",
     "dtslint": "4.2.1",
     "eslint": "8.51.0",
